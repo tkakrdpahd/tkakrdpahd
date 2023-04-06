@@ -1,7 +1,7 @@
 - 👋 Hi, I’m MINSEOK DOO
 - 👀 I’m interested in ...Game dev, and Data security
-- 📓 I'm professional in ... C, Cpp, PyThon, Maya, Unreal Engine, MySQL, Ubuntu, Kali Linux, Windows
-- 🌱 I’m currently learning ... Go, Ruby, Rust, Arch
+- 📓 I'm professional in ... C, Cpp, PyThon, Maya, Unreal Engine, MySQL, Ubuntu,Cent OS, Kali Linux, Windows
+- 🌱 I’m currently learning ... Go, Ruby, Rust, Arch, Rocky Linux
 - 💞️ I’m looking to collaborate on ... Game dev
 - 📫 How to reach me ...; send me email albert052609@gmail.com
 
