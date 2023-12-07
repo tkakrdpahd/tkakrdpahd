@@ -1,6 +1,3 @@
-Here's a revised version of your GitHub README.md file, with a more structured and professional layout:
-
----
 
 # 👋 Welcome to MINSEOK DOO's GitHub Profile
 
