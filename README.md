@@ -35,10 +35,6 @@
 - BFA in Game Art / VR Development, Withdraw (Aug 2021 – May 2023)
 - Semester Credit: 48
 
-**Johns Hopkins University, Baltimore, MD**
-- BSEP, Computer Engineering (Spring 2024 – Spring 2025)
-- Semester Credit: 12
-
 **Korea University, Seoul, South Korea**
 - International Summer Campus (Jun - Jul 2022)
 - Semester Credit: 6
