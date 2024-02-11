@@ -46,6 +46,7 @@
 
 ## Honors and Scholarships
 
+- Maryland Institute College of Art Dean's List, Baltimore, MD, Fall 2023
 - Transfer Scholarship, Maryland Institute College of Art, Baltimore, MD (2023 – Current)
 - Pathway Scholarship, Ringling College of Art and Design, Sarasota, FL (2021-2023)
 
