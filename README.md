@@ -8,15 +8,16 @@
 **Interests:** 
 - Game Development
 - Data Security
+- Full-stack Dev
 
 **Professional Skills:** 
-- **Programming Languages:** C, C++, Python
-- **Software Proficiency:** Maya, Unreal Engine
-- **Database Management:** MySQL
-- **Operating Systems:** Ubuntu, CentOS, Kali Linux, Windows
+- **Programming Languages:** C, C++, Python, JavaScript, Java
+- **Software Proficiency:** Maya, Blender, Unreal Engine
+- **Database Management:** MySQL, MariaDB
+- **Operating Systems:** RedHat, CentOS, Kali Linux, Ubuntu, Windows
 
 **Currently Learning:** 
-- Languages: Go, Ruby, Rust
+- Languages: Rust
 - Systems: Arch, Rocky Linux
 
 **Looking for Collaboration in:** Game Development
@@ -100,7 +101,7 @@
 
 **Advanced:**
 - **Software:** Adobe Premier Pro CS6 - CC, Adobe Audition, Adobe InDesign, Adobe Dreamweaver, Adobe XD, Figma, Blender, OBS Studio
-- **Programming Languages:** Python, Java, JavaScript, P5.JS, Arduino
+- **Programming Languages:** Python, Java, JavaScript, P5.JS, Arduino, Node.js
 - **Operating Systems:** Cent OS
 
 **Entry Level:**
