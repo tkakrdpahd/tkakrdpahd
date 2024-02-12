@@ -121,5 +121,3 @@
 <!--- tkakrdpahd/tkakrdpahd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
 
 ---
-
-This format highlights your skills, education, and experience in a clear and concise manner, making it easier for visitors to understand your profile quickly.
