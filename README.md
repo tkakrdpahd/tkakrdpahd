@@ -71,8 +71,10 @@
 
 **Publications:**
 - M. Doo. (Pending). "Unearthing the Essence of Video Games: An Analysis of Literary and Artistic Discourses". Semiotica: Journal of the International Association for Semiotic Studies.
+- M. Doo (Peer review process). The V-Tuber Wave: Origins, Divergence, and Convergence in Contemporary Media. Convergence. ?(?) pp ?? - ??. CON-24-0021
 
 **Conference Presentations:**
+- Doo, M. (2024; Pending). Critical review on decentralization of gaming servers with P2P service. In Proceedings of the 2024 IEEE Gaming, Entertainment, and Media Conference (GEM), 33, Article 1570994560.
 - M. Doo (2024). "V-Tuber Wave: Origins, Divergence, and Convergence in Contemporary Media". Global Conference on Media, Communication, and Film (MCFCONF), 2024.
 - M. Doo (2023). "Tactic of Game Design: The Playability and Gameness". Korea Game Society, 2023 Spring Conference, pp. 3-10.
 
@@ -83,9 +85,6 @@
 **Internship (Summer 2024):** 
 - Perception Neuron, Technical Art. 
 - Role: Intern in Technical Art with a focus on motion capture technology.
-
-**V-Tuber Project (Spring - Winter 2024):**
-- Libramentum, Director, CEO
 
 ---
 
