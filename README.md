@@ -81,14 +81,6 @@
 
 ---
 
-## Project Experience
-
-**Internship (Summer 2024):** 
-- Perception Neuron, Technical Art. 
-- Role: Intern in Technical Art with a focus on motion capture technology.
-
----
-
 ## Skills
 
 **Professional:**
