@@ -9,10 +9,10 @@ As a versatile professional with expertise in fine art, design, game design, ful
 ## Programming Languages & Technologies
 
 ### Language
-C, C++, C#, Python, Java, JavaScript, HTML5, SCSS (CSS3), Rust
+C, C++, C#, Python, Java, JavaScript, HTML5, SCSS (CSS3)
 
 ### Library
-Node.js, Socket.io, P5.JS
+Rust, Node.js, Socket.io, P5.JS
 
 ### Database
 MariaDB, MySQL
