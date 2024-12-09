@@ -26,7 +26,7 @@ As a versatile professional with a Bachelor of Fine Arts in Interactive Art and 
 *Technical Lead, NDA Development Team*  
 **Seoul, South Korea | Jun – Aug 2024**
 
-> **_Note:** Specific details about this project are confidential and protected under a Non-Disclosure Agreement (NDA)._
+> **Note:** Specific details about this project are confidential and protected under a Non-Disclosure Agreement (NDA).
 
 ### **Libramentum Co., Ltd**  
 *Founder & CEO, Actuary Development Team*  
@@ -35,7 +35,7 @@ As a versatile professional with a Bachelor of Fine Arts in Interactive Art and 
 - Established a startup, laying the legal and business foundation for future ventures.
 - Engaged with government agencies, including the Small and Medium Business Corporation and the Korea Creative Content Agency, to seek potential investments.
 - Gathered valuable feedback on developing a more robust MVP model despite initial funding attempts being unsuccessful.
-- **_Note:** Company-specific strategies and internal processes are confidential and protected under a Non-Disclosure Agreement (NDA)._
+> **Note:** Company-specific strategies and internal processes are confidential and protected under a Non-Disclosure Agreement (NDA).
 
 ---
 
@@ -52,7 +52,7 @@ As a versatile professional with a Bachelor of Fine Arts in Interactive Art and 
 - Utilized Cursor AI for automated component generation, reducing development time and ensuring code consistency.
 - Deployed and maintained the production environment using Vercel, ensuring stable service delivery during the concert’s promotional period.
 - Managed homepage requests with a peak TPS of 1210 using AWS Amplify and Cloudflare R2.
-- **_Note:** Specific performance metrics and deployment strategies are confidential and protected under a Non-Disclosure Agreement (NDA)._
+> **Note:** Specific performance metrics and deployment strategies are confidential and protected under a Non-Disclosure Agreement (NDA).
 
 ### **TheVentures Co., Ltd.**  
 *Global Venture Scout*  
@@ -61,7 +61,7 @@ As a versatile professional with a Bachelor of Fine Arts in Interactive Art and 
 - Participated in a Venture Capitalist education program.
 - Acquired skills as an investment analyst, including conducting mock investment evaluations.
 - Evaluated investment opportunities in Media Content, VR/AR/XR, and Blockchain sectors, preparing three investment cases valued at approximately $145,000 each for final committee review.
-- **_Note:** Detailed investment strategies and case studies are confidential and protected under a Non-Disclosure Agreement (NDA)._
+> **Note:** Detailed investment strategies and case studies are confidential and protected under a Non-Disclosure Agreement (NDA).
 
 ### **Korea Creative Content Agency**  
 *Participant, Registration Education for Popular Culture and Arts Planning Business*  
