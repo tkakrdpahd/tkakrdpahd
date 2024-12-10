@@ -103,7 +103,7 @@ As a versatile professional with a Bachelor of Fine Arts in Interactive Art and 
 **Working On:**
 
 - **M. Doo.** (Currently Working On). “Multidimensional arrays, time complexity and space complexity, and relational understanding beyond the geometric concept of topology,” *Target to Submit to Proceedings of the 2025 IEEE Computer Society Annual Symposium on VLSI*.
-- **M. Doo.** (Currently Working On). “V-Tuber’s Graduation, The Death of a Personality: The Theoretical Review,” *Target to Submit to Proceedings of the 2025 IEEE CTSoc Gaming, Entertainment and Media*.
+- **M. Doo.** (Currently Working On). “V-Tuber’s Graduation, The Death of a Personality: The Theoretical Review,” *Target to Submit to ACM International Conference on Interactive Media Experiences (IMX 2025)*.
 - **M. Doo.** (Under Review; 2025). “Multi-Layered Communication Framework for P2P Live Streaming,” *Proceedings of the 2025 IEEE International Conference on Communications (ICC): Communication Software and Multimedia Symposium*.
 
 ---
